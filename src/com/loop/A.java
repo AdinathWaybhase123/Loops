@@ -6,6 +6,7 @@ public class A {
 			System.out.println(s.length());
 		} catch (NullPointerException e) {
 			System.out.println(e);
+			
 		}
 	}
 }
